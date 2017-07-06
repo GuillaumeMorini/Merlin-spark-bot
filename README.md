@@ -1,3 +1,3 @@
-# apiai-spark-bot
+# Merlin-spark-bot based on API.ai
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
