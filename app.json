@@ -1,9 +1,9 @@
 {
-  "name": "API.AI Spark integration",
-  "description": "Api.ai Spark integration allows you to create Spark bots with natural language understanding based on Api.ai technology.",
-  "repository": "https://github.com/api-ai/apiai-spark-bot",
-  "logo": "http://xvir.github.io/img/apiai.png",
-  "keywords": ["api.ai", "spark", "natural language"],
+  "name": "Merlin using API.AI Spark integration",
+  "description": "Merlin is a Spark bot with natural language understanding based on Api.ai technology.",
+  "repository": "https://github.com/GuillaumeMorini/apiai-spark-bot",
+  "logo": "http://www.guismo.fr.eu.org/wizard-36676_1280.png",
+  "keywords": ["Merlin","Cisco","api.ai", "spark", "natural language"],
   "env": {
     "APP_NAME": {
       "description": "Copy App Name here",
@@ -19,7 +19,7 @@
     },
     "APIAI_LANG": {
       "description": "Agent language",
-      "value": "en",
+      "value": "fr",
       "required": false
     }
   },

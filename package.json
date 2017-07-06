@@ -1,13 +1,13 @@
 {
-  "name": "apiai-spark-bot",
+  "name": "Merlin-spark-bot",
   "version": "1.0.0",
-  "description": "API.AI Spark Bot",
+  "description": "Merlin Spark Bot based on API.AI",
   "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Danil Skachkov <danil@api.ai> (https://api.ai)",
+  "author": "Guillaume Morini <gmorini@cisco.com>",
   "license": "Apache-2.0",
   "dependencies": {
     "apiai": "^3.0.3",
